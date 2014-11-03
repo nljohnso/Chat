@@ -2,6 +2,7 @@ Chat
 ====
 
 Simple chat program in C (using TCP socket connections)
+
 Author: Niklaus Johnson
 Class: CS457
 Project 1
